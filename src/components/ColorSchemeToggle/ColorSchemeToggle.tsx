@@ -7,7 +7,7 @@ export function ColorSchemeToggle() {
 
   return (
     <Group justify="center" mt="xl">
-      <Button onClick={() => setColorScheme('light')}>Light</Button>
+      <Button className='bg-sky-400 rounded-lg' onClick={() => setColorScheme('light')}>Light</Button>
       <Button onClick={() => setColorScheme('dark')}>Dark</Button>
       <Button onClick={() => setColorScheme('auto')}>Auto</Button>
     </Group>
