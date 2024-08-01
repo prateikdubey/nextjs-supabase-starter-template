@@ -7,7 +7,7 @@ If you want to use pages router instead, see [next-pages-template](https://githu
 
 This template comes with the following features:
 
-- [Tailwind]([https://www.typescriptlang.org/](https://tailwindcss.com/))
+- [Tailwind](https://tailwindcss.com/)
 - [PostCSS](https://postcss.org/) with [mantine-postcss-preset](https://mantine.dev/styles/postcss-preset)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Storybook](https://storybook.js.org/)
