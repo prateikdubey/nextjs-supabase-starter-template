@@ -1,4 +1,4 @@
-# Mantine Next.js template
+# Next.js Mantine template
 
 This is a template for [Next.js](https://nextjs.org/) app router + [Mantine](https://mantine.dev/) + [Tailwind](https://tailwindcss.com/).
 
