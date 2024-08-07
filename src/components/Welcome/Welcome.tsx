@@ -11,12 +11,11 @@ export function Welcome() {
         </Text>
       </Title>
       <Text c="dimmed" ta="center" size="lg" maw={580} mx="auto" mt="xl">
-        This starter Next.js project includes a minimal setup for server side rendering, if you want
-        to learn more on Mantine + Next.js integration follow{' '}
+        This starter Next.js project includes a minimal setup for  Mantine + Tailwind + Next.js. Follow{' '}
         <Anchor href="https://mantine.dev/guides/next/" size="lg">
           this guide
         </Anchor>
-        . To get started edit page.tsx file.
+        to get started with Next.js.
       </Text>
     </>
   );
