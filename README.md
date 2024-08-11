@@ -1,11 +1,12 @@
 # Next.js Mantine template
 
-This is a template for [Next.js](https://nextjs.org/) app router + [Mantine](https://mantine.dev/) + [Tailwind](https://tailwindcss.com/).
+This is a template for [Next.js](https://nextjs.org/) app router + [Supabase](https://www.supabase.com/) + [Mantine](https://mantine.dev/) + [Tailwind](https://tailwindcss.com/).
 
 ## Features
 
 This template comes with the following features:
 
+- [Supabase](https://www.supabase.com/)
 - [PostCSS](https://postcss.org/) with [mantine-postcss-preset](https://mantine.dev/styles/postcss-preset)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Storybook](https://storybook.js.org/)
