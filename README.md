@@ -1,4 +1,4 @@
-# Next.js Mantine template
+# Next.js Supabase Mantine template
 
 This is a template for [Next.js](https://nextjs.org/) app router + [Supabase](https://www.supabase.com/) + [Mantine](https://mantine.dev/) + [Tailwind](https://tailwindcss.com/).
 
