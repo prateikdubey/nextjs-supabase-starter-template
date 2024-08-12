@@ -1,4 +1,4 @@
-# Digital Biz Labs - Starter Template
+# Next.js, Supabase, Mantine & Tailwind - Starter Template
 
 This is a template for [Next.js](https://nextjs.org/) app router + [Supabase](https://www.supabase.com/) + [Mantine](https://mantine.dev/) + [Tailwind](https://tailwindcss.com/).
 
