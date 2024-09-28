@@ -4,9 +4,9 @@ import classes from './Welcome.module.css';
 export function Welcome() {
   return (
     <>
-      <Title className={classes.title} ta="center" mt={100}>
+      <Title className={classes.title} ta="center">
         Welcome to{' '}
-        <Text inherit variant="gradient" component="span" gradient={{ from: 'blue', to: 'cyan' }}>
+        <Text inherit variant="gradient" component="span" gradient={{ from: 'gold', to: 'yellow' }}>
           Mantine
         </Text>
       </Title>
